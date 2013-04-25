@@ -1,0 +1,170 @@
+[class^="icon-aroma"],
+[class*=" icon-aroma"] {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  *margin-right: .3em;
+  line-height: 24px;
+  vertical-align: middle;
+  background-repeat: no-repeat;
+  background-position: center center;
+  margin: 0px;
+}
+.icon-aroma-addressbook { background-image: url(../img/aroma/addressbook.png); }
+.icon-aroma-addressbook-alternative { background-image: url(../img/aroma/addressbook-alternative.png); }
+.icon-aroma-apple { background-image: url(../img/aroma/apple.png); }
+.icon-aroma-book { background-image: url(../img/aroma/book.png); }
+.icon-aroma-bookmark { background-image: url(../img/aroma/bookmark.png); }
+.icon-aroma-book-new { background-image: url(../img/aroma/book-new.png); }
+.icon-aroma-box { background-image: url(../img/aroma/box.png); }
+.icon-aroma-box-download { background-image: url(../img/aroma/boxDownload.png); }
+.icon-aroma-brush { background-image: url(../img/aroma/brush.png); }
+.icon-aroma-brush-blue { background-image: url(../img/aroma/brush_blue.png); }
+.icon-aroma-brush-green { background-image: url(../img/aroma/brush_green.png); }
+.icon-aroma-brush-purple { background-image: url(../img/aroma/brush_purple.png); }
+.icon-aroma-brush-red { background-image: url(../img/aroma/brush_red.png); }
+.icon-aroma-brush-yellow { background-image: url(../img/aroma/brush_yellow.png); }
+.icon-aroma-burger { background-image: url(../img/aroma/burger.png); }
+.icon-aroma-calendar { background-image: url(../img/aroma/calendar.png); }
+.icon-aroma-camera { background-image: url(../img/aroma/camera.png); }
+.icon-aroma-chip { background-image: url(../img/aroma/chip.png); }
+.icon-aroma-clapperboard { background-image: url(../img/aroma/clapperboard.png); }
+.icon-aroma-clipboard { background-image: url(../img/aroma/clipboard.png); }
+.icon-aroma-clock { background-image: url(../img/aroma/clock.png); }
+
+.icon-aroma-cloud { background-image: url(../img/aroma/cloud.png); }
+.icon-aroma-coins { background-image: url(../img/aroma/coins.png); }
+.icon-aroma-coke { background-image: url(../img/aroma/coke.png); }
+.icon-aroma-coke-light { background-image: url(../img/aroma/coke_light.png); }
+.icon-aroma-color-blackwhite { background-image: url(../img/aroma/color-blackwhite.png); }
+.icon-aroma-color-full { background-image: url(../img/aroma/color-full.png); }
+.icon-aroma-concierge-bell { background-image: url(../img/aroma/concierge-bell.png); }
+.icon-aroma-controllbutton-forward { background-image: url(../img/aroma/controllButton-Forward.png); }
+.icon-aroma-controllbutton-pause { background-image: url(../img/aroma/controllButton-Pause.png); }
+.icon-aroma-controllbutton-play { background-image: url(../img/aroma/controllButton-Play.png); }
+.icon-aroma-controllbutton-record { background-image: url(../img/aroma/controllButton-record.png); }
+.icon-aroma-controllbutton-rewind { background-image: url(../img/aroma/controllButton-rewind.png); }
+.icon-aroma-controllbutton-stop { background-image: url(../img/aroma/controllButton-stop.png); }
+.icon-aroma-crate { background-image: url(../img/aroma/crate.png); }
+.icon-aroma-creditcard { background-image: url(../img/aroma/creditcard.png); }
+.icon-aroma-creditcard-black { background-image: url(../img/aroma/creditcard-black.png); }
+.icon-aroma-css3 { background-image: url(../img/aroma/css3.png); }
+.icon-aroma-customer-review { background-image: url(../img/aroma/customer-review.png); }
+.icon-aroma-dashboard { background-image: url(../img/aroma/dashboard.png); }
+.icon-aroma-database { background-image: url(../img/aroma/database.png); }
+.icon-aroma-disc { background-image: url(../img/aroma/disc.png); }
+
+.icon-aroma-disc-colored { background-image: url(../img/aroma/disc-colored.png); }
+.icon-aroma-document { background-image: url(../img/aroma/document.png); }
+.icon-aroma-ebook { background-image: url(../img/aroma/ebook.png); }
+.icon-aroma-ebook-alternative { background-image: url(../img/aroma/ebook-alternative.png); }
+.icon-aroma-epub { background-image: url(../img/aroma/ePUB.png); }
+.icon-aroma-export { background-image: url(../img/aroma/export.png); }
+.icon-aroma-facebook { background-image: url(../img/aroma/facebook.png); }
+.icon-aroma-facebook-alternative { background-image: url(../img/aroma/facebook-alternative.png); }
+.icon-aroma-firewall { background-image: url(../img/aroma/firewall.png); }
+.icon-aroma-floppydisc { background-image: url(../img/aroma/floppydisc.png); }
+.icon-aroma-folder { background-image: url(../img/aroma/folder.png); }
+.icon-aroma-folder-download { background-image: url(../img/aroma/folder-download.png); }
+.icon-aroma-folder-dropbox { background-image: url(../img/aroma/folder-dropbox.png); }
+.icon-aroma-folder-movies { background-image: url(../img/aroma/folder-movies.png); }
+.icon-aroma-folder-music { background-image: url(../img/aroma/folder-music.png); }
+.icon-aroma-folder-sync { background-image: url(../img/aroma/folder-sync.png); }
+.icon-aroma-folder-upload { background-image: url(../img/aroma/folder-upload.png); }
+.icon-aroma-fontdeck { background-image: url(../img/aroma/fontdeck.png); }
+.icon-aroma-gift { background-image: url(../img/aroma/gift.png); }
+.icon-aroma-graphs-bar { background-image: url(../img/aroma/graphs-bar.png); }
+.icon-aroma-graphs-pie { background-image: url(../img/aroma/graphs-pie.png); }
+
+.icon-aroma-html5 { background-image: url(../img/aroma/html5.png); }
+.icon-aroma-id { background-image: url(../img/aroma/id.png); }
+.icon-aroma-imac { background-image: url(../img/aroma/iMac.png); }
+.icon-aroma-images { background-image: url(../img/aroma/images.png); }
+.icon-aroma-import { background-image: url(../img/aroma/import.png); }
+.icon-aroma-inbox { background-image: url(../img/aroma/inbox.png); }
+.icon-aroma-iphone4 { background-image: url(../img/aroma/iPhone4.png); }
+.icon-aroma-iphone4-alternative { background-image: url(../img/aroma/iPhone4-alternative.png); }
+.icon-aroma-itunes { background-image: url(../img/aroma/itunes.png); }
+.icon-aroma-lifebelt { background-image: url(../img/aroma/lifebelt.png); }
+.icon-aroma-lightbulb { background-image: url(../img/aroma/lightbulb.png); }
+.icon-aroma-looroll { background-image: url(../img/aroma/looroll.png); }
+.icon-aroma-mail { background-image: url(../img/aroma/mail.png); }
+.icon-aroma-manila-envelope { background-image: url(../img/aroma/manila-envelope.png); }
+.icon-aroma-mobipocket { background-image: url(../img/aroma/mobipocket.png); }
+.icon-aroma-moleskine { background-image: url(../img/aroma/moleskine.png); }
+.icon-aroma-moleskinered { background-image: url(../img/aroma/moleskineRed.png); }
+.icon-aroma-notifications { background-image: url(../img/aroma/notifications.png); }
+.icon-aroma-outbox { background-image: url(../img/aroma/outbox.png); }
+.icon-aroma-padlock-closed { background-image: url(../img/aroma/padlock-closed.png); }
+.icon-aroma-padlock-open { background-image: url(../img/aroma/padlock-open.png); }
+
+.icon-aroma-pantone-guide { background-image: url(../img/aroma/pantone_guide.png); }
+.icon-aroma-pencil { background-image: url(../img/aroma/pencil.png); }
+.icon-aroma-pepsi { background-image: url(../img/aroma/pepsi.png); }
+.icon-aroma-piggybank { background-image: url(../img/aroma/piggybank.png); }
+.icon-aroma-pin-blue { background-image: url(../img/aroma/pin-blue.png); }
+.icon-aroma-pin-green { background-image: url(../img/aroma/pin-green.png); }
+.icon-aroma-pin-location-blue { background-image: url(../img/aroma/pin-location-blue.png); }
+.icon-aroma-pin-location-green { background-image: url(../img/aroma/pin-location-green.png); }
+.icon-aroma-pin-location-orange { background-image: url(../img/aroma/pin-location-orange.png); }
+.icon-aroma-pin-location-purple { background-image: url(../img/aroma/pin-location-purple.png); }
+.icon-aroma-pin-location-red { background-image: url(../img/aroma/pin-location-red.png); }
+.icon-aroma-folder-upload { background-image: url(../img/aroma/folder-upload.png); }
+.icon-aroma-pin-orange { background-image: url(../img/aroma/pin-orange.png); }
+.icon-aroma-pin-purple { background-image: url(../img/aroma/pin-purple.png); }
+.icon-aroma-pin-red { background-image: url(../img/aroma/pin-red.png); }
+.icon-aroma-podcast { background-image: url(../img/aroma/podcast.png); }
+.icon-aroma-post-it { background-image: url(../img/aroma/post-it.png); }
+.icon-aroma-post-it-checked { background-image: url(../img/aroma/post-it-checked.png); }
+.icon-aroma-post-it-lined { background-image: url(../img/aroma/post-it-lined.png); }
+.icon-aroma-presentation { background-image: url(../img/aroma/presentation.png); }
+.icon-aroma-quality-hd { background-image: url(../img/aroma/quality-HD.png); }
+
+.icon-aroma-quality-hdplus { background-image: url(../img/aroma/quality-HDPlus.png); }
+.icon-aroma-quality-sd { background-image: url(../img/aroma/quality-SD.png); }
+.icon-aroma-radar { background-image: url(../img/aroma/radar.png); }
+.icon-aroma-rainbow { background-image: url(../img/aroma/rainbow.png); }
+.icon-aroma-rainbow-with-sun { background-image: url(../img/aroma/rainbow_with_sun.png); }
+.icon-aroma-raindrop { background-image: url(../img/aroma/raindrop.png); }
+.icon-aroma-recyclebin { background-image: url(../img/aroma/recycleBin.png); }
+.icon-aroma-recyclebinfull { background-image: url(../img/aroma/recycleBinFull.png); }
+.icon-aroma-red-bull { background-image: url(../img/aroma/red_bull.png); }
+.icon-aroma-redo { background-image: url(../img/aroma/redo.png); }
+.icon-aroma-resize-diagonal1 { background-image: url(../img/aroma/resize-diagonal1.png); }
+.icon-aroma-resize-diagonal2 { background-image: url(../img/aroma/resize-diagonal2.png); }
+.icon-aroma-resize-full { background-image: url(../img/aroma/resize-full.png); }
+.icon-aroma-resize-height { background-image: url(../img/aroma/resize-height.png); }
+.icon-aroma-resize-shrink { background-image: url(../img/aroma/resize-shrink.png); }
+.icon-aroma-resize-width { background-image: url(../img/aroma/resize-width.png); }
+.icon-aroma-search { background-image: url(../img/aroma/search.png); }
+.icon-aroma-settings { background-image: url(../img/aroma/settings.png); }
+.icon-aroma-shoppingbag { background-image: url(../img/aroma/shoppingbag.png); }
+.icon-aroma-shoppingbag-sale { background-image: url(../img/aroma/shoppingbag-sale.png); }
+.icon-aroma-signpost { background-image: url(../img/aroma/signpost.png); }
+
+.icon-aroma-smashing-book { background-image: url(../img/aroma/smashing-book.png); }
+.icon-aroma-smashing-logo { background-image: url(../img/aroma/smashing-logo.png); }
+.icon-aroma-soup { background-image: url(../img/aroma/soup.png); }
+.icon-aroma-speechbubbles { background-image: url(../img/aroma/speechbubbles.png); }
+.icon-aroma-star-medal-gold-blue { background-image: url(../img/aroma/star-medal-gold-blue.png); }
+.icon-aroma-star-medal-gold-green { background-image: url(../img/aroma/star-medal-gold-green.png); }
+.icon-aroma-star-medal-gold-orange { background-image: url(../img/aroma/star-medal-gold-orange.png); }
+.icon-aroma-star-medal-gold-red { background-image: url(../img/aroma/star-medal-gold-red.png); }
+.icon-aroma-star-medal-silver-blue { background-image: url(../img/aroma/star-medal-silver-blue.png); }
+.icon-aroma-star-medal-silver-green { background-image: url(../img/aroma/star-medal-silver-green.png); }
+.icon-aroma-star-medal-silver-orange { background-image: url(../img/aroma/star-medal-silver-orange.png); }
+.icon-aroma-star-medal-silver-red { background-image: url(../img/aroma/star-medal-silver-red.png); }
+.icon-aroma-star-rating-empty { background-image: url(../img/aroma/star-rating-empty.png); }
+.icon-aroma-star-rating-full { background-image: url(../img/aroma/star-rating-full.png); }
+.icon-aroma-star-rating-half { background-image: url(../img/aroma/star-rating-half.png); }
+.icon-aroma-todo { background-image: url(../img/aroma/todo.png); }
+.icon-aroma-typekit { background-image: url(../img/aroma/typekit.png); }
+.icon-aroma-typography { background-image: url(../img/aroma/typography.png); }
+.icon-aroma-undo { background-image: url(../img/aroma/undo.png); }
+.icon-aroma-usb { background-image: url(../img/aroma/usb.png); }
+.icon-aroma-vector { background-image: url(../img/aroma/vector.png); }
+
+.icon-aroma-wayfarer-brown { background-image: url(../img/aroma/wayfarer-brown.png); }
+.icon-aroma-wayfarer-classic { background-image: url(../img/aroma/wayfarer-classic.png); }
+.icon-aroma-wayfarer-red { background-image: url(../img/aroma/wayfarer-red.png); }
+.icon-aroma-wayfarer-violet { background-image: url(../img/aroma/wayfarer-violet.png); }
